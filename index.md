@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: alphiephalphie goes open source
 ---
 
+(c) 2024 REESWARE
